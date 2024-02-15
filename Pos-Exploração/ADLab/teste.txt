@@ -1,0 +1,114 @@
+*62-aud-distlist1
+*Ad-asi-distlist1
+*Al-carpediem-distlist1
+*Al-goga77012-distlist1
+*Al-julia1104-admingroup1
+*Al-moc-distlist1
+*Al-pri-admingroup1
+*An-977-distlist1
+*An-estefania-distlist1
+*An-silvercha-admingroup1
+*Ar-230-distlist1
+*Be-220-distlist1
+*Bi-747-distlist1
+*Bo-gab-admingroup1
+*Ca-1.9778E11-admingroup1
+*Ca-kha-distlist1
+*Ch-aldachild-distlist1
+*Ch-mor-distlist1
+*Ch-mus-distlist1
+*Cl-gar-distlist1
+*Cloneable Domain Controllers
+*Co-Tabouche2-distlist1
+*Cr-sempere20-distlist1
+*De-rocanroll-distlist1
+*Di-infideliD-admingroup1
+*DnsUpdateProxy
+*Do-187960050-admingroup1
+*Domain Admins
+*Domain Computers
+*Domain Controllers
+*Domain Guests
+*Domain Users
+*Do-NOC-admingroup1
+*El-contreras-distlist1
+*El-ifi-distlist1
+*Em-aureliotq-distlist1
+*Em-leo-distlist1
+*Enterprise Admins
+*Enterprise Key Admins
+*Enterprise Read-only Domain Controllers
+*Fr-aureliotq-admingroup1
+*Fr-feb-distlist1
+*Ga-cookie369-distlist1
+*Ge-luvmyfami-distlist1
+*Gl-551530301-distlist1
+*Gr-609661116-distlist1
+*Group Policy Creator Owners
+*Gw-lau-distlist1
+*Hi-arturosal-distlist1
+*Ho-GEP-distlist1
+*Is-ROY-distlist1
+*Ja-barrosana-distlist1
+*Ja-scottbaku-distlist1
+*Je-jan-distlist1
+*Je-joa-admingroup1
+*Jo-burbuja77-distlist1
+*Jo-rug-distlist1
+*Ke-333-distlist1
+*Ke-aashnasat-distlist1
+*Ke-amorepaul-distlist1
+*Key Admins
+*La-1.47258E1-admingroup1
+*Le-canutocor-distlist1
+*Le-polimodal-distlist1
+*Le-zub-admingroup1
+*Lu-220-admingroup1
+*Lu-868-distlist1
+*Ma-182-distlist1
+*Ma-202-admingroup1
+*Ma-250-distlist1
+*Ma-944-admingroup1
+*Ma-bdx-admingroup1
+*Ma-Enr-admingroup1
+*Ma-gi1-distlist1
+*Ma-MAU-admingroup1
+*Ma-mer-distlist1
+*Ma-pen-distlist1
+*Mi-miriamyan-distlist1
+*Mu-200-distlist1
+*Ni-cri-distlist1
+*No-siempreju-distlist1
+*Ol-779-distlist1
+*Ph-260-distlist1
+*Protected Users
+*Ra-dan-distlist1
+*Ra-fam-distlist1
+*Read-only Domain Controllers
+*Re-her-distlist1
+*Ro-cintia201-distlist1
+*Ro-dounibest-distlist1
+*Ro-pequeousi-distlist1
+*Ro-ron-admingroup1
+*Ro-uno-distlist1a
+*Ru-936-distlist1
+*Sa-alo-distlist1
+*Sa-aujourdhu-distlist1
+*Sa-pue-distlist1
+*Schema Admins
+*Sh-Athletic6-admingroup1
+*Sh-elt-admingroup1
+*Sh-liv-distlist1
+*Si-SEX-distlist1
+*St-686104004-distlist1
+*St-dan-distlist1
+*St-elchilean-distlist1
+*Ta-arisaidbo-distlist1
+*Tr-enamedina-distlist1
+*Va-36325207c-admingroup1
+*Vi-Beb-admingroup1
+*We-lachiconi-distlist1
+*Wi-905-distlist1
+*Yo-19JUNIO20-admingroup1
+*Yv-191-admingroup1
+*Yv-belen7027-distlist1
