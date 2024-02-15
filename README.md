@@ -1,7 +1,5 @@
 # **<center>Sumário</center>**
 
-  **Esse documento é um passo a passo de como resolver o CTF chamado "Misconfiguration".**
-
   1. #### ***<a href="#1">CTF.</a>***
    
   2. #### ***<a href="#2">Exploração.</a>***
